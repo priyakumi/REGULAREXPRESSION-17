@@ -30,5 +30,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 ## Links
 
 Gish link: https://gist.github.com/priyakumi/db265c1f917a211a9e2333a455ad5dea
-Github:ttps: //github.com/priyakumi
+
+Github: https://github.com/priyakumi
+
 
